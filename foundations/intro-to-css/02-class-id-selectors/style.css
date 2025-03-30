@@ -1,0 +1,17 @@
+.rbg{
+    background-color: rgb(206, 83, 83);
+    font-family: "Verdana","DejaVu Sans",sans-serif;
+
+}
+.big{
+    font-size:25px;
+}
+#bc{
+    font-size:35px;
+    color:rgb(4, 0, 242);
+}
+#bbgb{
+    font-size:25px;
+    background-color:rgb(0,150,0);
+    font-weight : bold;
+}
